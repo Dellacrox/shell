@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Bash taht display something
+# shellcheck disable=SC2009
+ps aux --forest | grep bash
