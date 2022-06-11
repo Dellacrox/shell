@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#bash script that display a message when its terminated
+trap 'echo "Iam invincible!!!"' SIGTERM
+while :
+do
+	echo "To infinity and beyond"
+	sleep 2
+done
