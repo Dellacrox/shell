@@ -2,5 +2,5 @@
 #Create a script that list files
 for i in *
 do
-	echo "$i" | cut -f 2- -d '-'
+	echo "$i" | cut -d'-' -f2-
 done
