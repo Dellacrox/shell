@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#bash that do the PID more easy
+pgrep -l bash
