@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 #Bash tha KILL AAAAH
-pgrep -f 4-to_inifinity_and_beyond | xargs kill -15
+pgrep -f 4-to_infinity_and_beyond | xargs kill -15
