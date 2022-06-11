@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+#Printf 10 times a string by a for
+for _ in $($seq 1 10); do
+      echo 'Best School'
+done
